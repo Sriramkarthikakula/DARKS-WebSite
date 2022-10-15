@@ -2,3 +2,7 @@
     font-size: 2rem;
     font-family:'Roboto Condensed', sans-serif;
 }
+
+.nav-link{
+    padding:0 18px;
+}

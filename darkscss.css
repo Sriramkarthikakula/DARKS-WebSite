@@ -5,3 +5,23 @@
 .pad{
     padding:0 18px;
 }
+.icon{
+    color:white;
+}
+.icon:hover{
+    color:#B1B2FF;
+}
+.qualities{
+    text-align: center;
+    color:white;
+    padding:5%;
+}
+.title{
+    padding-bottom:5%;
+    padding-left: 10%;
+    color:#B1B2FF;
+}
+.details{
+    margin-bottom:0;
+    margin-top: 3%;
+}
